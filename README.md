@@ -22,4 +22,4 @@ able to run the tests from the artemis-wildfly-integration directory:
   mvn clean test
 ```
 
-Test change
+Test change 2
